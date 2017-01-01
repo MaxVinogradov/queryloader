@@ -1,0 +1,19 @@
+# Idea-related stuff
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Maven-related stuff
+**/target
+*.log
+
+# Gradle
+.gradle
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Package Files
+*.jar
+*.war
+*.ear
